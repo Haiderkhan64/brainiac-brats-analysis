@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+# never commit image data, caches, checkpoints or BrainIAC files
+*.nii
+*.nii.gz
+*.npy
+*.ckpt
+*.pt
+*.pth
+BrainIAC/
+cache/
