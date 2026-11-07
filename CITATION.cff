@@ -3,9 +3,11 @@ message: "If you use this software or its results, please cite it."
 title: "BrainIAC on BraTS: analysis code, split and results"
 version: 1.0.0
 date-released: "2026-11-08"
+doi: 10.5281/zenodo.24045283
 authors:
   - family-names: Khan
     given-names: Haider
-license: MIT
+license:
+  - MIT
+  - CC-BY-4.0
 repository-code: "https://github.com/Haiderkhan64/brainiac-brats-analysis"
-# Add every co-author above, in paper order, before the release.
