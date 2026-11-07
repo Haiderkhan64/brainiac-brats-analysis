@@ -1,0 +1,9 @@
+{
+  "title": "BrainIAC on BraTS: analysis code, split and results",
+  "upload_type": "software",
+  "description": "Analysis scripts (two-level bootstrap, per-seed t-tests, Holm correction, failure decomposition), the case-level split (case identifiers only) and per-run and per-case results for the BrainIAC fine-tuning study on BraTS 2023 GLI, BraTS-PEDs and BraTS-Africa. No imaging data are included.",
+  "creators": [{"name": "Khan, Haider"}],
+  "license": "MIT",
+  "keywords": ["BrainIAC", "BraTS", "brain tumour segmentation", "foundation model", "LoRA", "reproducibility"],
+  "access_right": "open"
+}

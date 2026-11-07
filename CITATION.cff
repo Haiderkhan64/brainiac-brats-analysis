@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it."
+title: "BrainIAC on BraTS: analysis code, split and results"
+version: 1.0.0
+date-released: "2026-11-08"
+authors:
+  - family-names: Khan
+    given-names: Haider
+license: MIT
+repository-code: "https://github.com/Haiderkhan64/brainiac-brats-analysis"
+# Add every co-author above, in paper order, before the release.
