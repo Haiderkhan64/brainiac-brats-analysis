@@ -1,6 +1,6 @@
 # BrainIAC on BraTS: analysis code, split and results
 
-Analysis code and result files for the paper **"How Much Does Pretraining Add? A Controlled Audit of the BrainIAC Brain-MRI Foundation Model"** (Medical Image Analysis submission).
+Analysis code and result files for the paper **"How Much Does Pretraining Add? A Controlled Audit of the BrainIAC Brain-MRI Foundation Model"** (manuscript in preparation).
 The study compares frozen, LoRA and full fine-tuning of the BrainIAC ViT-B encoder, and random-initialisation
 baselines, for whole-tumour segmentation on BraTS 2023 GLI, BraTS-PEDs and BraTS-Africa.
 
